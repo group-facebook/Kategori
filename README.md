@@ -28,4 +28,4 @@ Acesories | kacamata | 5 | - [] Rp. 50.ribu
 
 about by: noreply@github.com
 
-Kirim pesan: BuatApkOlshop@users
+Kirim pesan: BuatApkOlshop@users.github.com
