@@ -2,7 +2,15 @@
 
 Request URL: https://github.com/on-store/Kategori
 
+URL | ID
+--- | ---
+Aktif | Aktif
+
 Request method: POST
+
+Url | Id
+--- | ---
+Aktif | Aktif
 
 content-type: application/x-www-form-urlencoded
 
