@@ -32,4 +32,6 @@ Kirim pesan: BuatApkOlshop@users.github.com
 
 ---
 
-#SELAMAT BERGABUNG
+**SELAMAT BERGABUNG**
+
+![IMAGE](https://drive.google.com/file/d/1Te-C5GxoCqEKoaQE0ZviXGrdvRI-A6L2/view?usp=drivesdk)
